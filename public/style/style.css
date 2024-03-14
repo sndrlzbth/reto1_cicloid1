@@ -80,7 +80,6 @@ img{
 .img-social{
     max-width: 20%;
     max-height: 20%;
-    margin-right: 3%;
 }
 
 .texto-blanco{
@@ -162,7 +161,7 @@ main{
 
 .redes-container{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
